@@ -1,0 +1,6 @@
+
+[{
+  "name": "backend",
+  "image": "node:14",
+  "portMappings": [{ "containerPort": 8080, "hostPort": 8080 }]
+}]
